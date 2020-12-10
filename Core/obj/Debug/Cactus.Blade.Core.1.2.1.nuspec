@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cactus.Blade.Core</id>
+    <version>1.2.1</version>
+    <authors>Mohammad Sadeq Sirjani</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>cactus.png</icon>
+    <projectUrl>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Core</projectUrl>
+    <description>Core is a library that is intuitive, fast and extensible.</description>
+    <releaseNotes>Core is a library that is intuitive, fast and extensible.</releaseNotes>
+    <copyright>@Copyright 2020</copyright>
+    <repository url="https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Core" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Core\Cacus.Blade.Core\Core\bin\Debug\netstandard2.1\Cactus.Blade.Core.dll" target="lib\netstandard2.1\Cactus.Blade.Core.dll" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Core\Cacus.Blade.Core\Image\cactus.png" target="cactus.png" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Core\Cacus.Blade.Core\LICENSE" target="LICENSE" />
+  </files>
+</package>
