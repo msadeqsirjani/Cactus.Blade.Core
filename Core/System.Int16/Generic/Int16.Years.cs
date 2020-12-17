@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 public static partial class Extension
 {
     /// <summary>
-    ///     An Int16 extension method that years the given this.
+    ///     An Int64 extension method that years the given this.
     /// </summary>
     /// <param name="this">The @this to act on.</param>
     /// <returns>A TimeSpan.</returns>
@@ -11,8 +13,8 @@ public static partial class Extension
     {
         var leap = @this / 4;
 
-        short days = 365 * @this + leap;
+        long days = 365 * @this + leap;
 
-        return days.Days();
+        return TimeSpan.FromDays(days);
     }
 }

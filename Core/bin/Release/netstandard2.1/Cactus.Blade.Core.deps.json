@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.1": {},
     ".NETStandard,Version=v2.1/": {
-      "Cactus.Blade.Core/1.2.1": {
+      "Cactus.Blade.Core/1.2.3": {
         "runtime": {
           "Cactus.Blade.Core.dll": {}
         }
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "Cactus.Blade.Core/1.2.1": {
+    "Cactus.Blade.Core/1.2.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
