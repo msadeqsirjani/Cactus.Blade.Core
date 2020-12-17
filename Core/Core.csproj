@@ -15,11 +15,17 @@
     <PackageId>Cactus.Blade.Core</PackageId>
     <AssemblyName>Cactus.Blade.Core</AssemblyName>
     <RootNamespace>Cactus.Blade.Core</RootNamespace>
-    <Version>1.2.1</Version>
+    <Version>1.2.2</Version>
     <NeutralLanguage>C#</NeutralLanguage>
     <PackageReleaseNotes>Core is a library that is intuitive, fast and extensible.</PackageReleaseNotes>
     <Description>Core is a library that is intuitive, fast and extensible.</Description>
+    <RepositoryType>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Core</RepositoryType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="System.Int16\Generic\Int16.Years.cs" />
+    <Compile Remove="System.Int64\Generic\Int64.Years.cs" />
+  </ItemGroup>
 
   <ItemGroup>
     <None Include="..\Image\cactus.png">
@@ -30,6 +36,8 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
+    <None Include="System.Int16\Generic\Int16.Years.cs" />
+    <None Include="System.Int64\Generic\Int64.Years.cs" />
   </ItemGroup>
 
 </Project>
