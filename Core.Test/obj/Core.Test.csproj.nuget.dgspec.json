@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core.Test\\Core.Test.csproj": {}
+    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core.Test\\Core.Test.csproj": {}
   },
   "projects": {
-    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core.Test\\Core.Test.csproj": {
+    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core.Test\\Core.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core.Test\\Core.Test.csproj",
+        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core.Test\\Core.Test.csproj",
         "projectName": "Core.Test",
-        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core.Test\\Core.Test.csproj",
+        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core.Test\\Core.Test.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core.Test\\obj\\",
+        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core\\Core.csproj": {
-                "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core\\Core.csproj"
+              "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core\\Core.csproj": {
+                "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core\\Core.csproj"
               }
             }
           }
@@ -80,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core\\Core.csproj": {
-      "version": "1.2.1",
+    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core\\Core.csproj": {
+      "version": "1.2.2",
       "restore": {
-        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core\\Core.csproj",
         "projectName": "Cactus.Blade.Core",
-        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core\\Core.csproj",
+        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Core\\Cacus.Blade.Core\\Core\\obj\\",
+        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
