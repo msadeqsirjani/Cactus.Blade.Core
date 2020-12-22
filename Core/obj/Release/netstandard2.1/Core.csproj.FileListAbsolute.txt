@@ -15,3 +15,4 @@ D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Core\Core\obj\Release\netstandard2.1
 D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Core\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
 D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Core\Core\obj\Release\netstandard2.1\Cactus.Blade.Core.dll
 D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Core\Core\obj\Release\netstandard2.1\Cactus.Blade.Core.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Core\Core\obj\Release\netstandard2.1\Core.csprojAssemblyReference.cache

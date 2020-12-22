@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EsDEkWmjJ8xrrPvw6m1p9aYIkoFCSRDylcsrVVEQrUFF4BTEWk/RuIEzQSQCMUPVe6F7tV40N9/ZHX3AHkJNJA==",
+  "dgSpecHash": "bLBi4R6YnNmC23wgF8GJfhi1Lnyl/xJaeUqr3s15LQl7lR4qBC3Jc21DaQbGdOziiFv94aTUGNr9eeazkKOTag==",
   "success": true,
   "projectFilePath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Core\\Core.Test\\Core.Test.csproj",
   "expectedPackageFiles": [
@@ -92,8 +92,7 @@
     "C:\\Users\\pc\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\cactus.blade.core\\1.2.3\\cactus.blade.core.1.2.3.nupkg.sha512"
+    "C:\\Users\\pc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
