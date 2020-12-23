@@ -7,7 +7,6 @@
     /// <param name="minimum">The minimum value.</param>
     /// <param name="maximum">The maximum value.</param>
     /// <returns>true if the value is between inclusively the minimum and maximum, otherwise false.</returns>
-    /// ###
     public static bool InRange(this int @this, int minimum, int maximum)
     {
         return @this.CompareTo(minimum) >= 0 && @this.CompareTo(maximum) <= 0;
